@@ -21,7 +21,7 @@ This project is a web scraping, document processing, and AI-powered chatbot syst
 - Generates embeddings using `sentence-transformers/all-MiniLM-L6-v2`.
 - Saves the FAISS vector index.
 
-### Chatbot
+### Chatbot ('App.py') ('Client.py')
 - Interactive client (`client.py`) sends queries to the backend.
 - Returns structured responses based on the scraped data.
 
