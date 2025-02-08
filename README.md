@@ -1,5 +1,4 @@
 # Triluxo_Internship
-# Doc Reader Project
 
 ## Project Overview
 This project is a web scraping, document processing, and AI-powered chatbot system designed to extract and organize data from the Brainlox website. The application provides meaningful responses by leveraging embeddings and vector storage for efficient data retrieval and querying.
